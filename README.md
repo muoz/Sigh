@@ -1,2 +1,2 @@
 # Sigh
-This will be great application ;)
+This will be a great application ;)
